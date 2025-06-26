@@ -13,7 +13,6 @@ Aquí tienes un vistazo a las tecnologías y herramientas con las que me siento 
     * [![Badge de Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/es/)
     * [![Badge de SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 * **Frameworks/Libraries:**
-    * [![Badge de Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.3.x/)
     * [![Badge de FastAPI](https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
     * [![Badge de Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 * **Bases de Datos:**
@@ -27,10 +26,17 @@ Aquí tienes un vistazo a las tecnologías y herramientas con las que me siento 
 
 ## 🔭 Proyectos Destacados
 
-Aquí puedes encontrar algunos de los proyectos en los que he estado trabajando:
+Aquí puedes encontrar algunos de los proyectos en los que he estado trabajando: https://github.com/martiin01/proyecto_Etnias
+
+
+* [API de predicción de etnias](https://github.com/martiin01/proyecto_Etnias): Este proyecto es una aplicación web completa que utiliza un modelo de Deep Learning para predecir la etnia de una persona a partir de una imagen de su rostro. La aplicación está construida con FastAPI en el backend y HTML, CSS y JavaScript en el frontend.
+
+* [UnderSound - Plataforma E-Commerce de Música](https://github.com/martiin01/UnderSounds): UnderSound es una aplicación web diseñada para descubrir, comprar y vender productos musicales. Esta plataforma sirve como un mercado que conecta a los fans de la música con los artistas, ofreciendo una variedad de artículos que incluyen CDs, discos de vinilo, casetes y merchandising de artistas.
+La aplicación está construida utilizando Python con el framework FastAPI para el backend, y HTML, CSS y JavaScript estándar para la interfaz frontend. Aprovecha Firebase para la autenticación de usuarios y Stripe para el procesamiento seguro de pagos.
+
+* [My_Delivery](https://github.com/martiin01/Delivery): Este proyecto es una simulación de un sistema de gestión de pedidos para una cadena de restaurantes, utilizando gRPC y Java para la comunicación entre los diferentes componentes del sistema. La aplicación gestiona el stock de productos, la tramitación de pedidos, la asignación de moteros y la interacción con los clientes.
 
 * [APIs_Contenidos_Calificaciones](https://github.com/martiin01/APIs_Contenidos_Calificaciones):.  Dos microservicios separados para una aplicación de streaming. Ambas APIs están construidas usando Python con Flask y la librería Connexion, aprovechando las especificaciones OpenAPI para definir las rutas y modelos
-* [Nombre del Proyecto 2](ENLACE_A_TU_REPOSITORIO_2): Una breve descripción de este otro proyecto. ¿Qué problema resuelve o qué aprendiste al desarrollarlo?
 
 ## 🔗 Conéctate conmigo
 
