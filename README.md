@@ -1,8 +1,7 @@
 # ¡Hola! 👋 Soy Martín Iglesias López
 
-[![Imagen de perfil](URL_DE_TU_AVATAR)](https://github.com/martiin01)
 
-Estudiante de Ingeniería Informática, especializándome en Ingeniería del Software. Estudiando el mundo del desarrollo web y de IA.
+Estudiante de Ingeniería Informática, especializándome en Ingeniería del Software.
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -40,6 +39,6 @@ La aplicación está construida utilizando Python con el framework FastAPI para 
 
 ## 🔗 Conéctate conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_PERFIL_DE_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mart%C3%ADn-iglesias-l%C3%B3pez-194b35344/)
 
 ¡Gracias por visitar mi perfil! 😊 ¡Estoy siempre aprendiendo y explorando nuevas tecnologías!
