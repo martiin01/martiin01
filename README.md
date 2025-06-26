@@ -35,6 +35,8 @@ La aplicación está construida utilizando Python con el framework FastAPI para 
 
 * [My_Delivery](https://github.com/martiin01/Delivery): Este proyecto es una simulación de un sistema de gestión de pedidos para una cadena de restaurantes, utilizando gRPC y Java para la comunicación entre los diferentes componentes del sistema. La aplicación gestiona el stock de productos, la tramitación de pedidos, la asignación de moteros y la interacción con los clientes.
 
+* [Blog_FastApi](https://github.com/martiin01/blog): Este proyecto es una aplicación de blog moderna y completa construida con el framework de Python FastAPI. La aplicación permite a los usuarios registrarse, iniciar sesión, crear, ver, editar y eliminar publicaciones. Usa supabase para la autentificación y gemini para la sugerencia de títulos.
+
 * [APIs_Contenidos_Calificaciones](https://github.com/martiin01/APIs_Contenidos_Calificaciones):.  Dos microservicios separados para una aplicación de streaming. Ambas APIs están construidas usando Python con Flask y la librería Connexion, aprovechando las especificaciones OpenAPI para definir las rutas y modelos
 
 ## 🔗 Conéctate conmigo
